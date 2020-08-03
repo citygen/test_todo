@@ -1,2 +1,4 @@
 # test_todo
-Created with CodeSandbox
+install nodejs platform
+install npm dependencies
+npm start
