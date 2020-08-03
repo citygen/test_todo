@@ -1,4 +1,4 @@
 # test_todo
-install nodejs platform
-install npm dependencies
-npm start
+  install nodejs platform
+  install npm dependencies
+  npm start
